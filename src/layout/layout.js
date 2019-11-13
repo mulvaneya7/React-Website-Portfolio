@@ -8,7 +8,7 @@ const layout = () => {
     return(
         <div className="demo-big-content">
             <Layout>
-                <Header className="header-color" title="Title" scroll>
+                <Header className="header-color" title="Alex Mulvaney's Web Portfolio" scroll>
                     <Navigation>
                         <Link to ="/resume">Resume</Link>
                         <Link to ="/aboutme">About Me</Link>
