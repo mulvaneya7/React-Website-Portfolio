@@ -4,3 +4,9 @@
     background: linear-gradient(to right, #2c3e50, #4ca1af); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+
+.demo-big-content a {
+    text-decoration: none;
+    color: white;
+}
+

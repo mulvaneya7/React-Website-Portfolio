@@ -12,7 +12,8 @@
 }
 
 .avatar-image {
-    height: 250px;
+    height: 450px;
+    border-radius: 35%;
     padding-top: 5em;
 }
 
@@ -31,7 +32,7 @@
 }
 
 .banner-text hr {
-    border-top: 5px dotted white;
+    border-top: 2px solid white;
     width: 50%;
     margin: auto;
 }
