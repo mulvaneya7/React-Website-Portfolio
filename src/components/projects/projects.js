@@ -1,11 +1,12 @@
 import React from 'react';
+import ProjectTabs from './TabPanel/TabPanel';
 
 const Projects = () => {
     return(
-        <div>
-            <h1>Projects Page</h1> 
-        </div>
+        <ProjectTabs />
     )
+    
 }
+
 
 export default Projects;
